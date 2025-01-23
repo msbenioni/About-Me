@@ -6,11 +6,11 @@ Hi there! I'm Jasmin Benioni, a passionate Full Stack Developer, creative thinke
 
 Full Stack Developer with a strong foundation in front-end and back-end technologies.
 
-Completed Level 4 Full Stack Developer Program at Mission Ready.
+Completed Level 5 Advanced Full Stack Developer Program at Mission Ready.
 
 Currently diving deep into building scalable, user-friendly applications.
 
-Passionate about kawaii aesthetics, educational tools, and creating solutions for local businesses.
+Passionate about problem-solving, procurement and contracts tools, and creating solutions for local businesses.
 
 🛠 Skills & Technologies
 
@@ -44,17 +44,9 @@ Deployment: Netlify, Vercel
 
 Here are some of my favorite projects. Check out my portfolio for more!
 
-🛒 Creator-Centric
-
-A platform empowering creators to showcase affiliate content and connect with followers. Features AI-powered search, mobile responsiveness, and API integrations.
-
 🧹 Clean Sweep Duo
 
 A modern rubbish removal service for Auckland, NZ. Built with Next.js and TypeScript, it includes a booking system, subscriptions, and a kawaii-themed design.
-
-🐼 Pandi's Vespa Adventures
-
-An interactive story website for preschoolers to explore colors and storytelling through a cute panda character.
 
 ✨ Fun Facts About Me
 
