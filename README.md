@@ -50,7 +50,7 @@ A modern rubbish removal service for Auckland, NZ. Built with Next.js and TypeSc
 
 ✨ Fun Facts About Me
 
-Creative Projects: I'm currently working on a children's book series teaching languages through simple rhymes and fun illustrations.
+Creative Projects: I'm currently working on web design agency platform that provides customized website solutions through an intelligent package recommendation system.
 
 Hobbies: Customizing keyboards, exploring new tech gadgets, and whipping up coconut yogurt recipes.
 
