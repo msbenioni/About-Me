@@ -1,67 +1,49 @@
-Welcome to My GitHub 👩‍💻🎉
+# Welcome to Jasmin's GitHub! 🌟
 
-Hi there! I'm Jasmin Benioni, a passionate Full Stack Developer, creative thinker, and lifelong learner based in Auckland, New Zealand. 🌏 With a knack for combining functionality with aesthetic designs, I aim to create impactful digital experiences. Whether you're here for inspiration, collaboration, or just a quick scroll, welcome to my world of code and creativity!
+Hi there! I'm **Jasmin Benioni**, a dynamic IT professional with a passion for solving real-world problems through technology, design, and innovation. With a solid foundation in **software development** and **digital technology**, I aim to create solutions that are as impactful as they are user-friendly.
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
-Full Stack Developer with a strong foundation in front-end and back-end technologies.
+Based in **Auckland, New Zealand**, I have a diverse background spanning software development, procurement systems, and contracts management. I recently completed my **Diploma in Digital Technology Development and Design** at Mission Ready HQ, where I cultivated my technical skills and embraced my love for coding. Fluent in **English and French**, I bring a unique perspective and global adaptability to every project.
 
-Completed Level 5 Advanced Full Stack Developer Program at Mission Ready.
+When I’m not coding or brainstorming my next big idea, you can find me exploring creative design trends or working on community-focused projects.
 
-Currently diving deep into building scalable, user-friendly applications.
+## 🚀 Key Projects
 
-Passionate about problem-solving, procurement and contracts tools, and creating solutions for local businesses.
+### [Rebalance Qi](https://rebalanceqi.co.nz)
+A wellness-focused platform I designed and developed to showcase holistic services and enable seamless online bookings.
 
-🛠 Skills & Technologies
+### [Clean Sweep Duo](https://cleansweepduo.com)
+An interactive rubbish removal service website featuring calendar-based bookings, subscription options, and payment integrations.
 
-Frontend:
+### [My Portfolio](https://jasminbenioni.netlify.app/)
+Explore more of my projects and creative endeavors on my portfolio!
 
-Languages: HTML5, CSS3, JavaScript, TypeScript
+## 💡 Skills & Expertise
 
-Frameworks: React.js, Next.js
+### Technical Proficiencies
+- **Programming:** JavaScript, HTML, CSS
+- **Frameworks:** React.js, Node.js
+- **Database Management:** MySQL, MongoDB
+- **ERP Systems:** SAP ECC, Ariba, Zycus, Ellipse
+- **Cloud Platforms:** AWS, GCP
+- **Version Control:** Git, GitHub
+- **APIs:** Development & Integration
 
-Styling: Tailwind CSS, shadcn UI, CSS animations
+### Other Strengths
+- Problem-solving & critical thinking
+- Process optimization & automation
+- Collaborative team player with excellent communication skills
 
-Backend:
+## 🌟 Fun Facts
+- I love designing intuitive UI/UX with a **kawaii aesthetic** 🌸.
+- Fluent in **French**, I enjoy bridging cultural gaps through language and technology.
+- My favorite tools include **React**, **GitHub**, and a good ol' cup of coffee ☕.
 
-Languages: Node.js
+## 📫 Let’s Connect!
+- **Portfolio:** [jasminbenioni.netlify.app](https://jasminbenioni.netlify.app/)
+- **LinkedIn:** [Jasmin Benioni](https://nz.linkedin.com/in/jasminbenioni)
+- **Email:** [msbenioni@gmail.com](mailto:msbenioni@gmail.com)
 
-Databases: MySQL, MongoDB
-
-Tools: Postman, Axios
-
-Others:
-
-Design: Adobe XD, Figma
-
-Version Control: Git, GitHub
-
-Testing: Jest, Vite
-
-Deployment: Netlify, Vercel
-
-🚀 Featured Projects
-
-Here are some of my favorite projects. Check out my portfolio for more!
-
-🧹 Clean Sweep Duo
-
-A modern rubbish removal service for Auckland, NZ. Built with Next.js and TypeScript, it includes a booking system, subscriptions, and a kawaii-themed design.
-
-✨ Fun Facts About Me
-
-Creative Projects: I'm currently working on web design agency platform that provides customized website solutions through an intelligent package recommendation system.
-
-Hobbies: Customizing keyboards, exploring new tech gadgets, and whipping up coconut yogurt recipes.
-
-Passion: Building tools that solve real-world problems and foster creativity.
-
-📫 Connect With Me
-
-Portfolio: jasminbenioni.netlify.app
-
-LinkedIn: Jasmin Benioni
-
-GitHub: jasminbenioni
-
-Thank you for visiting my GitHub! Let's build something amazing together. 🌟# About-Me
+## ✨ Quote I Live By
+*"I Can I Can I Can"* – Terry Kimiora (my father)
